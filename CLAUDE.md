@@ -4,11 +4,16 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Attention Monitor - A webcam-based attention detection application that tracks whether the user is looking at their screen using face pose and eye gaze tracking via MediaPipe.
+Attention Monitor - A webcam-based attention detection system for remote workers and students. Tracks whether the user is looking at their screen using real-time face pose estimation and eye gaze tracking via MediaPipe.
 
 **Two versions available:**
 1. **Desktop App** (`attention_detector.py`) - Python/OpenCV standalone application
 2. **Web App** (`attention-monitor-web/`) - React frontend + FastAPI backend, deployed on Railway
+
+## Repository
+
+- **GitHub**: https://github.com/karem505/smart-attendance-system-for-remote-workers
+- **Branch**: `master`
 
 ## Deployed URLs
 
